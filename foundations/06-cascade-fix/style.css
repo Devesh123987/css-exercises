@@ -1,21 +1,21 @@
-body{
+/*body{
   font-family:Arial, Helvetica, sans-serif
-}
+}*/
 
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
+  font-weight: bolder;
+}
+
+.para{
+  font-size: x-large;
 }
 
 .small-para {
-  font-size: 14px;
-  font-weight: 800;
+font-size: smaller;
 }
 
-.para {
-  font-size: 22px;
-}
 
 .confirm {
   background: green;
@@ -24,8 +24,7 @@ body{
 } 
 
 .button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  
   font-size: 20px;
 }
 
