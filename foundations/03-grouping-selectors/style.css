@@ -1,0 +1,14 @@
+.back,
+.nonback{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', serif sans-serif;
+
+}
+
+.back{
+    background: black;
+    color: white;
+}
+.nonback{
+    background: yellow;
+}
