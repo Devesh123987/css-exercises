@@ -1,5 +1,10 @@
 .odd{
     background-color: #ffc0cb;
     font-family: Verdana, Dejavu, sans-serif;
-    
+
+}
+
+#even{
+    color: hwb(240 0% 0%);
+    font-size: 36px;
 }
